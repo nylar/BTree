@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTree", "BTree\BTree.csproj", "{29811D4F-8F15-49CD-AAAF-35BA02C38E74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTree.Tests", "BTree.Tests\BTree.Tests.csproj", "{4BA84263-8728-47F3-86CD-B4A9ABAF86FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29811D4F-8F15-49CD-AAAF-35BA02C38E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29811D4F-8F15-49CD-AAAF-35BA02C38E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29811D4F-8F15-49CD-AAAF-35BA02C38E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29811D4F-8F15-49CD-AAAF-35BA02C38E74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BA84263-8728-47F3-86CD-B4A9ABAF86FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA84263-8728-47F3-86CD-B4A9ABAF86FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA84263-8728-47F3-86CD-B4A9ABAF86FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA84263-8728-47F3-86CD-B4A9ABAF86FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
